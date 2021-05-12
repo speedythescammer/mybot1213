@@ -15,7 +15,7 @@
     "jimp": "^0.8.5",
     "lowdb": "^1.0.0",
     "mal-scraper": "^2.6.4",
-    "mathjs": "^6.2.3",
+    "mathjs": "^7.5.1",
     "mc-server-status": "^1.2.0",
     "mcsrv": "^1.0.1",
     "moment": "^2.24.0",
